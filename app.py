@@ -38,5 +38,5 @@ if __name__ == '__main__':
 # To use this script:
 # 1. Save your training data in a text file (e.g., 'training_data.txt')
 # 2. Make sure you have matplotlib installed (pip install matplotlib)
-# 3. Run this script (python download_script.py)
+# 3. Run this script (python app.py)
 # 4. The script will generate a plot and save it as 'llm_training_progress.png'
